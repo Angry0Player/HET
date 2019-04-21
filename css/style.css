@@ -1,0 +1,28 @@
+h1
+{
+	color:red;
+}
+h2
+{
+	color:blue;
+}
+h3
+{
+	color: green;
+}
+body
+{
+	background-color: black;
+}
+#carte
+{
+	width:1000px;
+	margin: 0 auto;
+	background-color: gray;
+	text-align: center;
+	align-content: center;
+}
+ul li
+{
+	list-style-type: none;
+}
